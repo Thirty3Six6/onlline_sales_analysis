@@ -1,1 +1,6 @@
-print ("welcome to the Online store")
+print('Welcome to the Online Store')
+ 
+def search_by_category(category):
+    print(f"Searching products in category: {category}")
+ 
+search_by_category('Electronics')
