@@ -1,0 +1,6 @@
+mkdir lesson08
+cd lesson08
+git init
+echo "Hello, Git!" > file.txt
+git add file.txt
+git commit -m "Initial commit: Added file.txt"
